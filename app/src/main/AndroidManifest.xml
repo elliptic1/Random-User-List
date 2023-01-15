@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RandomUsersTest1">
         <activity
-            android:name="com.tbse.randomuserslist.MainActivity"
+            android:name="com.tbse.ui.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.RandomUsersTest1">
             <intent-filter>

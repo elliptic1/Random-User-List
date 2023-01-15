@@ -1,4 +1,4 @@
-package com.tbse.randomuserslist
+package com.tbse.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.compose.material.Text
 import androidx.compose.runtime.collectAsState
-import androidx.hilt.navigation.compose.hiltViewModel
 import com.tbse.domain.viewmodels.UserListScreenState
 import com.tbse.domain.viewmodels.UserListScreenViewModel
 import com.tbse.randomuserslist.ui.theme.RandomUsersTheme
